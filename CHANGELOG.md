@@ -1,5 +1,7 @@
 ## master
 
+- `[jest-reporters]` Revert: Transform file paths into hyperlinks ([#9294](https://github.com/facebook/jest/pull/9294))
+
 ### Features
 
 ### Fixes
